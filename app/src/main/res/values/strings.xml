@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sensor Demo</string>
+  <string name="hello1">TYPE_ACCELEROMETER isn\'t used!</string>
+  <string name="hello2">TYPE_MAGNETIC_FIELD isn\'t used!</string>
+  <string name="hello3">TYPE_ORIENTATION isn\'t used!</string>
+  <string name="hello4">TYPE_GYROSCOPEisn\'t used!</string>
+  <string name="hello5">TYPE_LIGHT isn\'t used!</string>
+  <string name="hello6">TYPE_PRESSURE isn\'t used!</string>
+  <string name="hello7">TYPE_TEMPERATURE isn\'t used!</string>
+  <string name="hello8">TYPE_PROXIMITY isn\'t used!</string>
+  <string name="hello9">TYPE_GRAVITY isn\'t used!</string>
+  <string name="hello10">TYPE_LINEAR_ACCELERATION isn\'t used!</string>
+  <string name="hello11">TYPE_ROTATION_VECTOR isn\'t used!</string>
+</resources>
+   
